@@ -1,0 +1,29 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java / Maven
+**/target/
+*.class
+backend/.mvn/wrapper/maven-wrapper.jar
+
+# Node
+**/node_modules/
+**/dist/
+frontend/.env.local
+
+# Deployment media
+video/
+
+# Environment / logs
+.env
+.env.*
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Upload files (optional)
+# backend/files/
